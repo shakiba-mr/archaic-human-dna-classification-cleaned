@@ -7,6 +7,7 @@ This repository is a cleaned production mirror of our collaborative course proje
 Because this is a consolidated, clean version managed by my project partner, the Git commit history here does not reflect individual development footprints. The Hybrid CNN+RNN (**DanQ**) model track, along with its corresponding data pipeline files (`danq_dataset.py`), configurations, and all optimal trained checkpoints (`best_model.pt`) was individually designed and implemented by me (**Canay (Shakiba)**). 
 
 *Note: Due to file sharing across multiple external platforms during collaboration, some components do not show as individual commits here but were completely authored by me. Development history, historical training scripts, and execution logs remain hosted in my original repository here: shakiba-mr/archaic-human-dna-classification.*
+---
 
 ### Problem Definition
 Modern Humans (Homo Sapiens) and Neanderthals (Homo neanderthalensis) diverged approximately 500,000 to 750,000 years ago. Subsequently, Neanderthals and Denisovans diverged around 381,000 to 473,000 years ago, both going extinct roughly 40,000 years ago. Because these hominin groups are evolutionarily closely related, distinguishing their short genomic sequences represents a challenging classification task.
