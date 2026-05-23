@@ -7,6 +7,7 @@ This repository is a cleaned production mirror of our collaborative course proje
 Because this is a consolidated, clean version managed by my project partner, the Git commit history here does not reflect individual development footprints. The Hybrid CNN+RNN (**DanQ**) model track, along with its corresponding data pipeline files (`danq_dataset.py`), configurations, and all optimal trained checkpoints (`best_model.pt`) was individually designed and implemented by me (**Canay (Shakiba)**). 
 
 *Note: Due to file sharing across multiple external platforms during collaboration, some components do not show as individual commits here but were completely authored by me. Development history, historical training scripts, and execution logs remain hosted in my original repository here: shakiba-mr/archaic-human-dna-classification.*
+
 ---
 
 ### Problem Definition
