@@ -1,6 +1,6 @@
 # Classification of Archaic Human Genomics Using Deep Neural Networks
 
-### 👥 Project Presentation Note
+#### Project Presentation Note
 
 This repository is a cleaned production mirror of our collaborative course project, where our team developed three separate machine learning models to classify archaic human DNA. 
 
